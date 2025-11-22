@@ -1,3 +1,8 @@
+[![AIEPIC Studio](images/aiepicstudio-com.PNG)](https://www.aiepicstudio.com)
+
+**Main Website:** [https://www.aiepicstudio.com](https://www.aiepicstudio.com)  
+AIEPIC Studio is the gateway for the studio's AI-enhanced creative work—showcasing immersive digital experiences, interactive storytelling, and innovation services that support client collaborations across design, software, and media.
+
 # Project Portfolio Catalog
 
 A curated collection of professional projects and tools developed for clients and personal use.
